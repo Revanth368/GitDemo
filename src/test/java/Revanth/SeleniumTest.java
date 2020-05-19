@@ -8,6 +8,7 @@ public class SeleniumTest {
 	public void sample()
 	{
 		System.out.println("sample");
+		System.out.println("edited1");
 	}
 
 }
