@@ -8,6 +8,7 @@ public class RESTAPITest {
 	public void sample()
 	{
 		System.out.println("sample2");
+		System.out.println("edit code");
 	}
 
 }
